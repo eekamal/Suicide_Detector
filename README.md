@@ -3,5 +3,5 @@ Depression is a common illness worldwide, with an estimated 3.8% of the populati
 
 This is a NLP deep learning model that can detect any suicidal thoughts. The deep learning model consists of embedding layer, flatten layer, and output layer. The model has the abiity to test instantaneously any input and detect its right label. Detecting any suicidal as soon as possible may save lives of many people and that is the main point of developed technologies; its effect.   
 
-The model has been train on Suicide Detection Clean Kaggle dataset: https://www.kaggle.com/datasets/rnunez1975/suicide-detection-clean
+The model has been trained on Suicide Detection Clean Kaggle dataset: https://www.kaggle.com/datasets/rnunez1975/suicide-detection-clean
 This dataset is a collection of posts from "SuicideWatch" and "depression" subreddits of the Reddit platform. The posts are collected using Pushshift API. All posts that were made to "SuicideWatch" from Dec 16, 2008(creation) till Jan 2, 2021, were collected while "depression" posts were collected from Jan 1, 2009, to Jan 2, 2021. 
